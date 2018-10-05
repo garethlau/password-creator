@@ -1,4 +1,4 @@
-# password-creator
+# Password Creator
 Create passwords and write to a txt file.
 
 User determined characteristics:
