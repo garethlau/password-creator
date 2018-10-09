@@ -7,4 +7,5 @@ User determined characteristics:
 - Uppercase characters
 - Special characters
 
-"Generate Password" creates a single password and prints to terminal. "Create Passwords" creates a user determined amount of passwords and writes it to a text file. 
+"Generate Password" creates a single password and prints to terminal.<br/>
+"Create Passwords" creates a user determined amount of passwords and writes it to a text file. 
